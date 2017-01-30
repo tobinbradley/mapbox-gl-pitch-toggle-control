@@ -1,0 +1,12 @@
+.directory
+.htaccess
+node_modules
+bower_components
+data
+deploy.sh
+public
+app/style/digiglobe
+npm-debug.log
+TODO.md
+yarn.lock
+.vscode
