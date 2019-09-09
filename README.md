@@ -1,7 +1,7 @@
 # mapbox-gl-pitch-toggle-control
 Simple pitch on/off button in Mapbox GL JS style. 
 
-[Demo](http://mcmap.org/qol-mecklenburg/embed/)
+![demo](https://i.imgur.com/iW7CQ23.gif)
 
 ```javascript
 map.addControl(new PitchToggle({minpitchzoom: 11})); 
